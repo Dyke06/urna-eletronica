@@ -63,3 +63,5 @@ Mas vamos para o que importa: O Teste.
 
 
 ## Projeto com parceria com a escola Prof Luiza de Teodoro Vieira
+
+## Professor Aloísio de Sousa - coodernador do curso
